@@ -1,0 +1,22 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 28 09:50:44 ICT 2022
+http\://0.0.0.0/.error=Could not transfer artifact com.homedirect.common\:home-lib\:pom\:2.0.4 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [fusesource (http\://repo.fusesource.com/nexus/content/groups/public/, default, releases), Maven Central (http\://repo1.maven.org/maven2, default, releases+snapshots), jboss (http\://repository.jboss.org/nexus/content/groups/public/, default, releases)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1658736260523
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+@default-Maven\ Central-http\://repo1.maven.org/maven2/.lastUpdated=1655108673053
+https\://repo.spring.io/snapshot/.error=
+http\://repo.fusesource.com/nexus/content/groups/public/.error=Could not transfer artifact com.homedirect.common\:home-lib\:pom\:2.0.4 from/to fusesource (http\://repo.fusesource.com/nexus/content/groups/public/)\: Transfer failed for http\://repo.fusesource.com/nexus/content/groups/public/com/homedirect/common/home-lib/2.0.4/home-lib-2.0.4.pom 503 Service Unavailable
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.lastUpdated=1645424253387
+http\://nexus.vndirect.com.vn/content/groups/public/.lastUpdated=1658976644832
+@default-fusesource-http\://repo.fusesource.com/nexus/content/groups/public/.lastUpdated=1655108672615
+https\://repo.spring.io/snapshot/.lastUpdated=1656670432792
+https\://repo.maven.apache.org/maven2/.lastUpdated=1658736261650
+https\://repo.spring.io/milestone/.error=
+@default-nexus-releases-https\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1657614366297
+https\://repo.spring.io/milestone/.lastUpdated=1656670433036
+https\://nexus.vndirect.com.vn/content/repositories/releases/.error=Could not transfer artifact com.homedirect.common\:home-lib\:pom\:2.0.4 from/to nexus-releases (https\://nexus.vndirect.com.vn/content/repositories/releases/)\: authentication failed for https\://nexus.vndirect.com.vn/content/repositories/releases/com/homedirect/common/home-lib/2.0.4/home-lib-2.0.4.pom, status\: 401 Unauthorized
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.homedirect.common\:home-lib\:pom\:2.0.4 from/to Maven Central (http\://repo1.maven.org/maven2)\: Transfer failed for http\://repo1.maven.org/maven2/com/homedirect/common/home-lib/2.0.4/home-lib-2.0.4.pom 501 HTTPS Required
+http\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1645424253485
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1655087717712
+https\://repo.maven.apache.org/maven2/.error=
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.error=

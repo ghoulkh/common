@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 11 09:32:29 ICT 2022
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.error=
+@default-nexus-releases-https\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1646965949815
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.lastUpdated=1646964470043
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.error=
+http\://repo.fusesource.com/nexus/content/groups/public/.lastUpdated=1646964470758
+http\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1646964469981
+http\://repo.marketcetera.org/maven/.lastUpdated=1646964471684
+http\://repo.fusesource.com/nexus/content/groups/public/.error=
+https\://nexus.vndirect.com.vn/content/repositories/releases/.error=Could not transfer artifact com.homedirect.common\:home-common\:pom\:1.0.9 from/to nexus-releases (https\://nexus.vndirect.com.vn/content/repositories/releases/)\: authentication failed for https\://nexus.vndirect.com.vn/content/repositories/releases/com/homedirect/common/home-common/1.0.9/home-common-1.0.9.pom, status\: 401 Unauthorized
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.lastUpdated=1646964469924
+http\://repo.marketcetera.org/maven/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646964472380
+https\://repo.maven.apache.org/maven2/.error=
+http\://nexus.vndirect.com.vn/content/repositories/releases/.error=

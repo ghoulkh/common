@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 18 16:39:45 ICT 2022
+home-webhook-1.0.jar>nexus=
+home-webhook-1.0.jar>central3=
+home-webhook-1.0.pom>nexus=
+home-webhook-1.0.pom>central3=

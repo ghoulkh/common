@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 21 10:36:13 ICT 2022
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1642732295687
+@default-nexus-releases-https\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1642736173779
+http\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1642673598274
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.lastUpdated=1642673598189
+https\://nexus.vndirect.com.vn/content/repositories/releases/.error=Could not transfer artifact com.homedirect.common\:home-common\:pom\:1.1.4 from/to nexus-releases (https\://nexus.vndirect.com.vn/content/repositories/releases/)\: Authentication failed for https\://nexus.vndirect.com.vn/content/repositories/releases/com/homedirect/common/home-common/1.1.4/home-common-1.1.4.pom 401 Unauthorized
+https\://repo.maven.apache.org/maven2/.error=

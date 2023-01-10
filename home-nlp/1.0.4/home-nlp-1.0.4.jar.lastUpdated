@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 01 16:06:32 ICT 2022
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.error=
+http\://nexus.vndirect.com.vn/content/repositories/releases/.error=
+http\://repo.fusesource.com/nexus/content/groups/public/.error=Could not transfer artifact com.homedirect.common\:home-nlp\:jar\:1.0.4 from/to fusesource (http\://repo.fusesource.com/nexus/content/groups/public/)\: Transfer failed for http\://repo.fusesource.com/nexus/content/groups/public/com/homedirect/common/home-nlp/1.0.4/home-nlp-1.0.4.jar 503 Service Unavailable
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.lastUpdated=1654074050618
+@default-fusesource-http\://repo.fusesource.com/nexus/content/groups/public/.lastUpdated=1654074102653
+https\://repo.maven.apache.org/maven2/.lastUpdated=1654074392999
+@default-MarketceteraRepo-http\://repo.marketcetera.org/maven/.lastUpdated=1654074147575
+http\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1654074053503
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo.marketcetera.org/maven/.error=Could not transfer artifact com.homedirect.common\:home-nlp\:jar\:1.0.4 from/to MarketceteraRepo (http\://repo.marketcetera.org/maven)\: Transfer failed for http\://repo.marketcetera.org/maven/com/homedirect/common/home-nlp/1.0.4/home-nlp-1.0.4.jar
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.lastUpdated=1654074056580

@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 01 15:55:38 ICT 2022
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.error=
+http\://nexus.vndirect.com.vn/content/repositories/releases/.error=
+http\://repo.fusesource.com/nexus/content/groups/public/.error=Could not transfer artifact com.homedirect.common\:home-nlp\:pom\:1.0.4 from/to fusesource (http\://repo.fusesource.com/nexus/content/groups/public/)\: Transfer failed for http\://repo.fusesource.com/nexus/content/groups/public/com/homedirect/common/home-nlp/1.0.4/home-nlp-1.0.4.pom 503 Service Unavailable
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.lastUpdated=1654073736498
+@default-fusesource-http\://repo.fusesource.com/nexus/content/groups/public/.lastUpdated=1654073737405
+http\://repo.marketcetera.org/maven/.lastUpdated=1654073738333
+https\://repo.maven.apache.org/maven2/.lastUpdated=1654073738578
+http\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1654073736558
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo.marketcetera.org/maven/.error=
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.lastUpdated=1654073736643

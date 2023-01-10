@@ -1,0 +1,20 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 23 15:30:08 ICT 2022
+http\://0.0.0.0/.error=Could not transfer artifact com.homedirect.common\:home-webhook\:pom\:1.0.1 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [fusesource (http\://repo.fusesource.com/nexus/content/groups/public/, default, releases), Maven Central (http\://repo1.maven.org/maven2, default, releases+snapshots), jboss (http\://repository.jboss.org/nexus/content/groups/public/, default, releases)]
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.error=
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1655973008512
+http\://nexus.vndirect.com.vn/content/repositories/releases/.error=
+http\://repo.fusesource.com/nexus/content/groups/public/.error=Could not transfer artifact com.homedirect.common\:home-webhook\:pom\:1.0.1 from/to fusesource (http\://repo.fusesource.com/nexus/content/groups/public/)\: Transfer failed for http\://repo.fusesource.com/nexus/content/groups/public/com/homedirect/common/home-webhook/1.0.1/home-webhook-1.0.1.pom 503 Service Unavailable
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.lastUpdated=1654080531920
+http\://nexus.vndirect.com.vn/content/groups/public/.lastUpdated=1655973008510
+@default-fusesource-http\://repo.fusesource.com/nexus/content/groups/public/.lastUpdated=1654080533135
+http\://nexus.vndirect.com.vn/content/groups/public/.error=
+http\://repo.marketcetera.org/maven/.lastUpdated=1654080534428
+https\://repo.maven.apache.org/maven2/.lastUpdated=1655973008805
+@default-nexus-releases-https\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1655973008572
+https\://nexus.vndirect.com.vn/content/repositories/releases/.error=Could not transfer artifact com.homedirect.common\:home-webhook\:pom\:1.0.1 from/to nexus-releases (https\://nexus.vndirect.com.vn/content/repositories/releases/)\: authentication failed for https\://nexus.vndirect.com.vn/content/repositories/releases/com/homedirect/common/home-webhook/1.0.1/home-webhook-1.0.1.pom, status\: 401 Unauthorized
+http\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1654080532023
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo.marketcetera.org/maven/.error=
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.lastUpdated=1654080532104

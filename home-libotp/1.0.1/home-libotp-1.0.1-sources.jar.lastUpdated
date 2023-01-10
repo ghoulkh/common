@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 17 15:18:56 ICT 2022
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.error=
+http\://nexus.vndirect.com.vn/content/repositories/releases/.error=
+http\://repo.fusesource.com/nexus/content/groups/public/.error=
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.lastUpdated=1647505134748
+http\://repo.marketcetera.org/maven/.lastUpdated=1647505136468
+https\://repo.maven.apache.org/maven2/.lastUpdated=1647505136884
+@default-nexus-releases-https\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1647505136483
+http\://repo.fusesource.com/nexus/content/groups/public/.lastUpdated=1647505135411
+https\://nexus.vndirect.com.vn/content/repositories/releases/.error=Could not transfer artifact com.homedirect.common\:home-libotp\:jar\:sources\:1.0.1 from/to nexus-releases (https\://nexus.vndirect.com.vn/content/repositories/releases/)\: Authentication failed for https\://nexus.vndirect.com.vn/content/repositories/releases/com/homedirect/common/home-libotp/1.0.1/home-libotp-1.0.1-sources.jar 401 Unauthorized
+http\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1647505134811
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo.marketcetera.org/maven/.error=
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.lastUpdated=1647505134864

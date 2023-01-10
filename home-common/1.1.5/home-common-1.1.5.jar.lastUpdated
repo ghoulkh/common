@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 03 14:24:07 ICT 2022
+http\://nexus.vndirect.com.vn/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1664781847900
+http\://0.0.0.0/.error=Could not transfer artifact com.homedirect.common\:home-common\:jar\:1.1.5 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [fusesource (http\://repo.fusesource.com/nexus/content/groups/public/, default, releases), Maven Central (http\://repo1.maven.org/maven2, default, releases+snapshots), jboss (http\://repository.jboss.org/nexus/content/groups/public/, default, releases)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1664781847523
+https\://repo.maven.apache.org/maven2/.error=
+http\://nexus.vndirect.com.vn/content/groups/public/.lastUpdated=1664781847522

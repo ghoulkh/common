@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 16 10:12:45 ICT 2022
+http\://nexus.vndirect.com.vn/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1671160298807
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1671160365576
+http\://0.0.0.0/.error=Could not transfer artifact com.homedirect.common\:home-nlp\:jar\:2.0.4 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [fusesource (http\://repo.fusesource.com/nexus/content/groups/public/, default, releases), Maven Central (http\://repo1.maven.org/maven2, default, releases+snapshots), jboss (http\://repository.jboss.org/nexus/content/groups/public/, default, releases)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1671160295472
+https\://repo.maven.apache.org/maven2/.error=
+http\://nexus.vndirect.com.vn/content/groups/public/.lastUpdated=1671160295299
+https\://repository.jboss.org/nexus/content/groups/public/.error=

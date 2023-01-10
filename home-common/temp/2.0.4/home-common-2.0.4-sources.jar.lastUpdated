@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 10 14:34:42 ICT 2022
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.error=
+http\://nexus.vndirect.com.vn/content/repositories/releases/.error=
+http\://repo.fusesource.com/nexus/content/groups/public/.error=
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.lastUpdated=1646897680264
+http\://repo.marketcetera.org/maven/.lastUpdated=1646897682147
+https\://repo.maven.apache.org/maven2/.lastUpdated=1646897682472
+http\://repo.fusesource.com/nexus/content/groups/public/.lastUpdated=1646897681066
+http\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1646897680342
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo.marketcetera.org/maven/.error=
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.lastUpdated=1646897680411

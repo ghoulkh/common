@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 16 11:08:51 ICT 2022
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.error=
+http\://nexus.vndirect.com.vn/content/repositories/releases/.error=
+http\://repo.fusesource.com/nexus/content/groups/public/.error=Could not transfer artifact com.homedirect.common\:home-common\:jar\:1.0.1 from/to fusesource (http\://repo.fusesource.com/nexus/content/groups/public/)\: Transfer failed for http\://repo.fusesource.com/nexus/content/groups/public/com/homedirect/common/home-common/1.0.1/home-common-1.0.1.jar 503 Service Unavailable
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.lastUpdated=1652674127577
+@default-fusesource-http\://repo.fusesource.com/nexus/content/groups/public/.lastUpdated=1652674129234
+http\://repo.marketcetera.org/maven/.lastUpdated=1652674130654
+https\://repo.maven.apache.org/maven2/.lastUpdated=1652674131628
+@default-nexus-releases-https\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1652674130695
+https\://nexus.vndirect.com.vn/content/repositories/releases/.error=Could not transfer artifact com.homedirect.common\:home-common\:jar\:1.0.1 from/to nexus-releases (https\://nexus.vndirect.com.vn/content/repositories/releases/)\: Authentication failed for https\://nexus.vndirect.com.vn/content/repositories/releases/com/homedirect/common/home-common/1.0.1/home-common-1.0.1.jar 401 Unauthorized
+http\://nexus.vndirect.com.vn/content/repositories/releases/.lastUpdated=1652674127646
+http\://nexus.vndirect.com.vn/content/repositories/snapshots/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo.marketcetera.org/maven/.error=
+http\://nexus.vndirect.com.vn/content/repositories/thirdparty/.lastUpdated=1652674127731
